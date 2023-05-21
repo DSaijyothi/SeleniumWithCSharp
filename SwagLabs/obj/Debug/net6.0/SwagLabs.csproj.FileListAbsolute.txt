@@ -1,0 +1,5 @@
+C:\Users\Sai Jyothi\source\repos\SwagLabs\SwagLabs\obj\Debug\net6.0\SwagLabs.csproj.AssemblyReference.cache
+C:\Users\Sai Jyothi\source\repos\SwagLabs\SwagLabs\obj\Debug\net6.0\SwagLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Jyothi\source\repos\SwagLabs\SwagLabs\obj\Debug\net6.0\SwagLabs.AssemblyInfoInputs.cache
+C:\Users\Sai Jyothi\source\repos\SwagLabs\SwagLabs\obj\Debug\net6.0\SwagLabs.AssemblyInfo.cs
+C:\Users\Sai Jyothi\source\repos\SwagLabs\SwagLabs\obj\Debug\net6.0\SwagLabs.csproj.CoreCompileInputs.cache
