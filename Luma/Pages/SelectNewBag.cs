@@ -17,12 +17,16 @@ namespace Luma.Pages
 
         [FindsBy(How = How.XPath, Using = "//div[text()='Sauce Labs Backpack']")]
         private IWebElement NewBag;
+
         [FindsBy(How = How.XPath, Using = "//button[text()='Add to cart']")]
         private IWebElement AddToCart;
+
         [FindsBy(How=How.Id,Using = "shopping_cart_container")]
         private IWebElement CheckCart;
+
         [FindsBy(How=How.Name,Using = "checkout")]
         private IWebElement CheckoutCart;
+
         public void SetNewBag()
         {
             NewBag.Click();
