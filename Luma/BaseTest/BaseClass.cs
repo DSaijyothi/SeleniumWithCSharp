@@ -10,16 +10,14 @@ using System.Threading.Tasks;
 
 namespace Luma.BaseTest
 {
-    [TestClass]
-
     public class BaseClass
     {
         public IWebDriver driver;
         [TestInitialize]
         public void OpenApplication()
         {
-            driver=new ChromeDriver();
-            driver=new FirefoxDriver();
+            //driver=new ChromeDriver();
+            //driver=new FirefoxDriver();
             driver=new EdgeDriver();
             driver.Navigate().GoToUrl("https://www.saucedemo.com/");
             driver.Manage().Window.Maximize();
