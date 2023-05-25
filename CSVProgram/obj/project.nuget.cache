@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFQ16HY9zGfJObAgduNeliHmrJIvs8hLcfEEYZ3e79Aanh1LbXB33FcfeNFR4/wDZl0KX4utLf3XxtMUbxFrxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sai Jyothi\\source\\repos\\CSVProgram\\CSVProgram\\CSVProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\dotnetcsvhelper\\1.0.1\\dotnetcsvhelper.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Sai Jyothi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
